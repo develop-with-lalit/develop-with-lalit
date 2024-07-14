@@ -9,9 +9,9 @@
 
 ⚙️ Proficient with technologies like Javascript, Nodejs, React, Postgres and AWS. 
 
-🌱 I’m currently learning **Project Management and React Native**
+🌱 I’m currently learning Project Management and React Native.
 
-💬 Ask me about **Javascript, Node, React, Mongo, Postgres**
+💬 Ask me about Javascript, Node, React, Mongo, Postgres.
 
 
 
