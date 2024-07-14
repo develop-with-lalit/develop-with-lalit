@@ -43,4 +43,4 @@
 
 ![Lalit' Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=develop-with-lalit&show_icons=true&locale=en&layout=compact&theme=radical)
 
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=develop-with-lalit&show_icons=true&theme=radical)
+<!-- ![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=develop-with-lalit&show_icons=true&theme=radical) -->
