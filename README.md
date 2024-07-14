@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
 <h4>
 
-- 👨‍💻 A passionate Full-Stack Web and Mobile Software Engineering professional with 6+ years of experience in building production ready, reliable and scalable web applications.
+👨‍💻 A passionate Full-Stack Web and Mobile Software Engineering professional with 6+ years of experience in building production ready, reliable and scalable web applications.
 
-- ✌️ Prefers to work in a team and have collaborations with designers, product owners and other cross-functional team members.
+✌️ Prefers to work in a team and have collaborations with designers, product owners and other cross-functional team members.
 
--  🚀 Demonstrated history of leading the projects by taking complete ownership while keeping a customer centric approach to problem-solving.
+🚀 Demonstrated history of leading the projects by taking complete ownership while keeping a customer centric approach to problem-solving.
 
-- ⚙️ Proficient with technologies like Javascript, Nodejs, React, Postgres and AWS. 
+⚙️ Proficient with technologies like Javascript, Nodejs, React, Postgres and AWS. 
 
-- 🌱 I’m currently learning **Project Management and React Native**
+🌱 I’m currently learning **Project Management and React Native**
 
-- 💬 Ask me about **Javascript, Node, React, Mongo, Postgres**
+💬 Ask me about **Javascript, Node, React, Mongo, Postgres**
 
 
 
