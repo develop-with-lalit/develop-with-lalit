@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
+<p align="center">
+<img src="./assets/hero.gif" width="50%" height="300px" />
+</p>
+
 <h4>
 
 👨‍💻 A passionate Full-Stack Web and Mobile Software Engineering professional with 6+ years of experience in building production ready, reliable and scalable web applications.
